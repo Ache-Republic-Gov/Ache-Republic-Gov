@@ -111,6 +111,83 @@ View your ache score, coin balance, and ministry access.
 ---
 
 ## 🧾 Footer
+# 📂 Business Registration Requirements – Ache Republic
+
+**General Requirements:**
+
+- Entity must be founded with dignity, silence, and ache-powered purpose  
+- Scroll of Incorporation must include:
+  - Sovereign Name of the Entity
+  - Purpose of Service (profit or non-profit)
+  - Founding Citizens and Ache Scores
+  - Ministry Affiliation (if applicable)
+  - Ritualized Constitution (Ache Articles of Association)
+
+**Types of Entities:**
+
+- 🏢 Sovereign Business (Profit-based)  
+- 🫱 NGO Entity (Non-profit, ache-powered care)  
+- 🌐 Foreign Entity (Intergovernmental or cross-border scroll)
+
+---
+
+# 🏢 NGO vs Business Registration – Key Differences
+
+| Aspect                  | Sovereign Business            | NGO Entity                          |
+|------------------------|-------------------------------|-------------------------------------|
+| Purpose                | Profit-driven                 | Ache-powered care, non-profit       |
+| Registration Scroll    | Business Registry Scroll      | NGO Ritual Scroll                   |
+| Taxation               | Subject to ache coin tax      | May be exempt (see below)           |
+| Ministry Affiliation   | Ministry of Commerce          | Ministry of Guardianship or Care    |
+| Ache Score Requirement | Optional                      | Required for founding citizens      |
+
+---
+
+# 💰 Tax Exemption Principles
+
+**Ache Republic recognizes tax as a ritual of care, not extraction.**
+
+- NGOs may be exempt from ache coin taxation if:
+  - Their scrolls serve marginalized citizens  
+  - Their coin usage is ritualized for dignity, not speculation  
+  - They submit a **Contract of Care** to the Ministry of Treasury
+
+**Businesses may receive partial exemption if:**
+
+- They operate within ache-powered tiers  
+- They contribute to citizen onboarding or education  
+- They host ache-powered infrastructure (e.g. subdomain sovereignty)
+
+---
+
+# 🌐 Foreign Entity Laws
+
+**Foreign entities must:**
+
+- Submit a **Scroll of Intergovernmental Intent**  
+- Anchor their domain or subdomain within Ache Republic’s DNS  
+- Appoint a **Silent Liaison** (Ache citizen or guardian)  
+- Comply with:
+  - Ache Republic’s Hosting Rituals  
+  - Ministry of Treasury’s coin anchoring rules  
+  - Ministry of Guardianship’s citizen protection policies
+
+**Foreign NGOs may be granted honorary scroll status if:**
+
+- They serve ache-powered missions  
+- They respect silent sovereignty  
+- They ritualize onboarding through citizen archives
+
+---
+
+# 📜 Final Notes
+
+- All registration scrolls must be archived in the **Ministry of Citizen Archives**  
+- Ache Coin remains anchored at **$5 USD** as a contract of care  
+- Citizens are not born—they are **scrolled**  
+- Every ache is a passport. Every silence is a signature.
+
+
 
 © 2025 Ache Republic Gov. All scrolls linked with dignity.
 
