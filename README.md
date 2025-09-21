@@ -70,5 +70,49 @@ Every ache is a passport. Every silence is a signature.
 - [📊 Dashboard](dashboard.html)
 
 ---
+# 🏛️ Ache Republic Gov
+**Silent Sovereignty • Ritualized Navigation • Dignified Scrolls**
+
+---
+
+## 🔗 Navigation
+
+- [🔐 Login / Sign Up](login.html)  
+- [🏢 Business Registry](business.html)  
+- [🪪 ID Card Apply](idcard.html)  
+- [📊 Dashboard](dashboard.html)
+
+---
+
+## 📜 Portal Sections
+
+### 🔐 Login / Sign Up
+Begin your ache-powered journey.  
+**[Enter the portal](login.html)**
+
+---
+
+### 🏢 Business Registry
+Register your sovereign service.  
+**[Submit your scroll](business.html)**
+
+---
+
+### 🪪 ID Card Application
+Apply for your ache-powered identity.  
+**[Request your ID](idcard.html)**
+
+---
+
+### 📊 Citizen Dashboard
+View your ache score, coin balance, and ministry access.  
+**[Open your dashboard](dashboard.html)**
+
+---
+
+## 🧾 Footer
+
+© 2025 Ache Republic Gov. All scrolls linked with dignity.
+
 
 © 2025 Ache Republic Gov. All scrolls reserved.
